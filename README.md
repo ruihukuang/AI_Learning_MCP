@@ -27,7 +27,7 @@ Context
 
 The first one is a knowledge-graph based memory MCP server related to *libsql*. This mcp server persistently stores entities, observations about them, and relationships between them.  
 
-This mcp server helps to keep memory of entity info and enables to continue conversations based on previous interactions. 
+This mcp server helps to keep memory of entity info in the file https://github.com/ruihukuang/AI_Learning_MCP/blob/main/memory/Janice.db. It enables to continue conversations based on previous interactions. 
 
 The screenshot below show outputs for the first mcp server usages.  
 <img width="1571" height="798" alt="image" src="https://github.com/user-attachments/assets/dd8b60a7-c5ef-49f0-85c5-b207c57f69c2" />  
