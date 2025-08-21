@@ -7,6 +7,8 @@ Two Mcp tools are used. One tool is to use playwright and node to extract conten
 
 The screenshots below show results. 
 <img width="2533" height="568" alt="image" src="https://github.com/user-attachments/assets/2b1596cc-3c27-4038-ae77-e39b9c7897c6" />  
-They could be found in the file  .  
+They could be found in the file https://github.com/ruihukuang/AI_Learning_MCP/blob/main/sandbox/banoffee.md.  
+
+
 
 
