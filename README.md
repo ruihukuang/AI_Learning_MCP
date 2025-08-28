@@ -40,7 +40,21 @@ The screenshot below show outputs for the second mcp server usages.
 The third one is a financial data MCP server related to *Polygon*. A market.py file is used to interact Polygon API calls to get different share prices. A MCP server is created based on this file.  
 
 The screenshot below show outputs for the third mcp server usages.  
-<img width="1481" height="425" alt="image" src="https://github.com/user-attachments/assets/a767035a-e4e2-45a2-ac22-7f8239632ced" />  
+<img width="1481" height="425" alt="image" src="https://github.com/user-attachments/assets/a767035a-e4e2-45a2-ac22-7f8239632ced" /> 
+
+## lab 4  
+
+Context  
+
+Use a fetch mcp server and a brave mcp search server to do market research for a research agent. The agent is converted into a tool. This tool is used in the a trade agent. There are 3 self created mcp servers and a polygon mcp server for this trade agent. These mcp servers are used to make API calls to get info from Polygon platform, check stock prices, buy and share stock prices, save memory of companies, research and thinking , and send transactions results to my phone using a Pushover app etc.  
+
+The final transaction outputs are shown in the screenshot below.  
+<img width="1604" height="464" alt="image" src="https://github.com/user-attachments/assets/fe47d910-9f7f-4ced-8921-82b9e938db31" />  
+
+
+
+
+
 
 
 
