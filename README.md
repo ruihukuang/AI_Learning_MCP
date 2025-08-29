@@ -46,7 +46,7 @@ The screenshot below show outputs for the third mcp server usages.
 
 Context  
 
-Use a fetch mcp server and a brave mcp search server to do market research for a research agent. The agent is converted into a tool. This tool is used in the a trade agent. There are 3 self created mcp servers and a polygon mcp server for this trade agent. These mcp servers are used to make API calls to get info from Polygon platform, check stock prices, buy and share stock prices, save memory of companies, research and thinking , and send transactions results to my phone using a Pushover app etc.  
+Use a fetch mcp server and a brave mcp search server to do market research for a research agent. The agent is converted into a tool. This tool is used by a trade agent. There are 3 self created mcp servers and a polygon mcp server for this trade agent. These mcp servers are used to make API calls to get info from Polygon platform, check stock prices, buy and share stock prices, save memory of companies, research and thinking , and send transactions results to my phone using a Pushover app etc.  
 
 The final transaction outputs are shown in the screenshot below.  
 <img width="2668" height="426" alt="image" src="https://github.com/user-attachments/assets/c5f9f151-5958-4725-9d73-07a02dde401a" />  
